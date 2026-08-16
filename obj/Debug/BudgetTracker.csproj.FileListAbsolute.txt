@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\BudgetTracker\bin\Debug\BudgetTracker.exe.config
+C:\Users\user\OneDrive\Desktop\BudgetTracker\bin\Debug\BudgetTracker.exe
+C:\Users\user\OneDrive\Desktop\BudgetTracker\bin\Debug\BudgetTracker.pdb
+C:\Users\user\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.exe
+C:\Users\user\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.pdb
